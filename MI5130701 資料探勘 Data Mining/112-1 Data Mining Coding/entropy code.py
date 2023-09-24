@@ -5,9 +5,12 @@ def entropy(i, j):
     p = i / (i + j)
     return - p*np.log2(p) - (1 - p)*np.log2((1 - p))
 
-all_entropy = entropy(9,5)
+a = input ('請輸入全部的總數：')
+b = input ('請輸入正確的總數：')
 
-print ("entropy =" + all_entropy)
+print('Informaiton Gain資訊獲得：')
+
+print(entropy(a,b))
 
 print ('test') 
 x=3 
