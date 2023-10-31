@@ -1,0 +1,32 @@
+#這是簡單爬蟲ptt
+
+rm(list = ls()) #清除右邊視窗變數
+cat("\014")     #清除console視窗內容
+
+install.packages("pacman")
+library(pacman)
+
+pacman::p_load(magrittr, httr, RCurl, xml2)
+
+
+data = NULL
+for( i in 39200:39202 ) {
+  url = paste0('https://www.ptt.cc/bbs/Gossiping/index',i,'.html')
+  # tmp1 = content(GET(url))   # httr
+  tmp1 = content(GET(url, set_cookies(over18=1))) #18歲以上那一個鈕
+  tmp2 = xml_find_all(tmp1, "//div[@class='title']/a")  
+  tmp3 = xml_attr(tmp2,"href")	
+  data = c(data,tmp3)
+}
+getdoc = function(url)  {
+  outputDir = "C:/data/ptt5/"
+  url2 = paste0("https://www.ptt.cc",url)
+  tmp1 = content(GET(url2, set_cookies(over18=1))) 
+  tmp2 = xml_find_all(tmp1, "//div[@id='main-content']")  
+  content0 = xml_text(tmp2)        # 每篇文章的內容 
+  name = strsplit(url, '/')[[1]][4]   # 存檔的檔名
+  write(content0, paste0(outputDir, gsub('html', 'txt', name)) )
+}
+
+sapply(data, getdoc)
+
