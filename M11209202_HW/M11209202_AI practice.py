@@ -9,12 +9,21 @@ random_points = np.random.rand(num_points, 2) * 1000
 random_points_index = np.arange(num_points)
 original_coordinates = random_points.copy()
 
+# 顯示為迭代前的隨機圖，方便後續做比較
+plt.figure(figsize=(8, 6))
+plt.scatter(random_points[:, 0], random_points[:, 1], c=random_points_index, cmap='viridis')
+plt.title('Initial Random Points')
+plt.xlabel('X')
+plt.ylabel('Y')
+plt.grid(True)
+plt.show()
+
 # 初始化 NearestNeighbors 物件
 k = 5
 nn = NearestNeighbors(n_neighbors=k)
 nn.fit(random_points)
 
-# 初始化畫布
+# 初始化動畫
 fig, ax = plt.subplots()
 scatter = ax.scatter(random_points[:, 0], random_points[:, 1], c=random_points_index, cmap='viridis')
 ax.set_title('Updated Random Points M11209202')
@@ -34,7 +43,7 @@ def update(frame):
         
     if frame >= num_iterations:
         print("Iteration reached 100. Stopping animation.")
-        text.set_text("Done!")
+        text.set_text("Iteration =100 ,Done! ")
         ani.event_source.stop()  # 停止動畫
         return
     
