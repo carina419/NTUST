@@ -12,10 +12,7 @@ original_coordinates = random_points.copy()
 # 顯示為迭代前的隨機圖，方便後續做比較
 plt.figure(figsize=(8, 6))
 plt.scatter(random_points[:, 0], random_points[:, 1], c=random_points_index, cmap='viridis')
-plt.title('Initial Random Points M11209202')
-text = plt.text(0.5, 0.5, '', horizontalalignment='center', verticalalignment='center', transform=plt.transAxes)
-text.set_text("Iteration = 0 ,Are you ready? ")
-text.set_text("saving the initial random points image before the iteration starts:")
+plt.title('Initial Random Points M11209202 saving the initial random points image before the iteration starts:')
 plt.xlabel('X')
 plt.ylabel('Y')
 plt.grid(True)
@@ -80,3 +77,4 @@ def update(frame):
 # 創建動畫
 ani = FuncAnimation(fig, update, frames=num_iterations+10, interval=200)
 plt.show()
+
