@@ -35,22 +35,11 @@ def update(frame):
     if frame >= num_iterations:
         print("Iteration reached 100. Stopping animation.")
         text.set_text("Done!")
-        print("序號\t原始座標\t移動距離\t最後座標")
-        for i in range(num_points):
-            distance = np.linalg.norm(original_coordinates[i] - random_points[i])
-            print(f"{i+1}\t{original_coordinates[i]}\t{distance}\t{random_points[i]}")
         ani.event_source.stop()  # 停止動畫
         return
-    #μ=1/K ∑_(k=1)^K▒x_k .
+    
     distances, indices = nn.kneighbors(random_points)
 
-    """點的移動距離根據其K個(這邊預設k=5)最近鄰居的質心和自身當前位置之間的差距計算的。
-        每個點的移動距離可以通過以下步驟計算：
-        找到每個點的K個最近鄰居。
-        計算這K個最近鄰居的平均位置，即質心。
-        計算每個點與質心之間的差距。
-        將每個點沿著與質心之間的差距方向移動一小步，步長由參數movement_step_size控制。
-    """ 
     for i in range(len(random_points)):
         neighbor_indices = indices[i]
         neighbors = random_points[neighbor_indices]
@@ -66,7 +55,15 @@ def update(frame):
     movement_history.append(random_points.copy())
     
     scatter.set_offsets(random_points)
-    text.set_text(f"Iteration: {frame+1}")  
+    text.set_text(f"Iteration: {frame+1}")
+    
+    if (frame + 1) % 10 == 0:  # 每10個迭代列印一次
+        print(f"Iteration: {frame+1}")
+        print("序號\t原始座標\t\t移動距離\t\t最後座標")
+        for i in range(num_points):
+            distance = np.linalg.norm(original_coordinates[i] - random_points[i])
+            print(f"{i+1}\t{original_coordinates[i]}\t{distance}\t{random_points[i]}")
+        print()
 
 # 創建動畫
 ani = FuncAnimation(fig, update, frames=num_iterations+10, interval=200)
