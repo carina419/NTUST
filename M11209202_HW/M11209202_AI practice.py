@@ -46,6 +46,7 @@ def update(frame):
 
     # 如果已達到指定迭代次數，停止更新
     if frame >= num_iterations:
+        ani.event_source.stop()  # 停止動畫
         return
 
     # 找到每個點的 k 個最近鄰居的索引和距離
@@ -70,6 +71,10 @@ def update(frame):
 
     # 更新迭代次數文字
     text.set_text(f"Iteration: {frame+1}")
+
+    # 更新畫面
+    fig.canvas.draw()
+    fig.canvas.flush_events()
 
 # 創建動畫
 ani = FuncAnimation(fig, update, frames=num_iterations+10, interval=200)
