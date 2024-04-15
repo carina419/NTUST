@@ -2,8 +2,8 @@
 
 main()
 function main() {
-  linearTest();
-  //exponetialTest();
+  //linearTest();
+  exponetialTest();
 }
 
 function linearTest() {
@@ -22,7 +22,8 @@ function exponetialTest() {
   X.map(x => console.log(x+'\t'+a*Math.exp(b*x)))
 }
 function exponentialRegression(X, Y) {
-  // y = a*exp(bx) ~ y2=log(y)=log(a)+b*x = alpha+beta*x
+  //將 Y 值取對數得到 Y2
+  // y = a*exp(bx) y = αe^βx 轉換成~ y2 = α + βx y2=log(y)=log(a)+b*x = alpha+beta*x
   let Y2 = Y.map(val => Math.log(val));
   // solve (x, y2) by linear regression
   let {alpha,beta}=linearRegression(X, Y2);
@@ -37,6 +38,7 @@ function linearRegression(x, y) {
     numer += (x[i] - mx) * (y[i]-my);
     denom +=  (x[i] - mx)* (x[i] - mx);
   }
+  //alpha = b0 beta= b1
   let beta = numer / denom;
   let alpha = my - beta * mx;
   return {alpha:alpha,beta:beta}
