@@ -3,20 +3,20 @@
 main()
 function main() {
   linearTest();
-  // exponetialTest();
+  //exponetialTest();
 }
 
 function linearTest() {
-  let x=[1,8,11,4,3]
-  let y=[3,9,11,5,2]
+  let x=[0,1,2,3,4,5,6,7,8,9,10]
+  let y=[9735,4597,2176,1024,483,229,108,52,24,11,6]
   for(let i = 0; i < x.length; i++) console.log(x[i]+'\t'+y[i])
   let {alpha,beta}=linearRegression(x,y);
   console.log('alpha '+alpha+' beta '+beta);
   console.log('correlation is '+correlation(x, y))
 }
 function exponetialTest() {
-  let X = [1, 2, 3, 4, 5];
-  let Y =[2, 14, 84, 445, 2460];
+  let X = [0,1,2,3,4,5,6,7,8,9,10];
+  let Y =[9735,4597,2176,1024,483,229,108,52,24,11,6];
   let {a,b} = exponentialRegression(X, Y);
   console.log('a '+a+' b '+b)
   X.map(x => console.log(x+'\t'+a*Math.exp(b*x)))
