@@ -2,8 +2,8 @@
 
 main()
 function main() {
-  //linearTest();
-  exponetialTest();
+  linearTest();
+  //exponetialTest();
 }
 
 function linearTest() {
