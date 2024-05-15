@@ -1,0 +1,1 @@
+tsc --target es6 --module commonjs %1 %2 %3 %4
