@@ -191,36 +191,52 @@ function main() {
 
     // 可視化結果
     let colors = ['r', 'g', 'b'];
-    let plotData = Y.map((point, index) => ({ x: point[0], y: point[1], label: labels[index] }));
-    plotData.forEach(point => {
-        console.log(`${point.x}, ${point.y}, ${colors[point.label]}`);
-    });
+    let plotData = Y.map((point, index) => ({
+        x: point[0],
+        y: point[1],
+        label: labels[index]
+    }));
+
+    const { createCanvas } = require('canvas');
+    const canvas = createCanvas(800, 800);
+    const ctx = canvas.getContext('2d');
+
+    function drawPlot() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        plotData.forEach(point => {
+            ctx.beginPath();
+            ctx.arc(400 + point.x * 100, 400 - point.y * 100, 5, 0, 2 * Math.PI);
+            ctx.fillStyle = colors[point.label];
+            ctx.fill();
+        });
+        console.log('<img src="' + canvas.toDataURL() + '" />');
+    }
+
+    drawPlot();
 }
 
-main();
-
-function getTime() {
-    return new Date().toLocaleTimeString();
-}
-function roundOf(f, len = 2) {
-    let s = f + '', index = s.indexOf('.');
-    if (index < 0)
-        return s;
-    return s.slice(0, index + len + 1);
-}
 function normal() {
-    var u = 0, v = 0;
-    while (u === 0)
-        u = Math.random();
-    while (v === 0)
-        v = Math.random();
+    let u = 0, v = 0;
+    while (u === 0) u = Math.random();
+    while (v === 0) v = Math.random();
     return Math.sqrt(-2.0 * Math.log(u)) * Math.cos(2.0 * Math.PI * v);
 }
+
 function distance(a, b) {
     let sum = 0;
-    for (let k = 0; k < a.length; k++) {
-        let diff = a[k] - b[k];
-        sum += diff * diff;
+    for (let i = 0; i < a.length; i++) {
+        sum += (a[i] - b[i]) * (a[i] - b[i]);
     }
     return sum;
 }
+
+function getTime() {
+    let date = new Date();
+    return date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds();
+}
+
+function roundOf(num, digits) {
+    return Math.round(num * Math.pow(10, digits)) / Math.pow(10, digits);
+}
+
+main();
