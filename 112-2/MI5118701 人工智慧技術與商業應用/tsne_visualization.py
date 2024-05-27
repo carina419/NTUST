@@ -17,6 +17,18 @@ tsne_results = tsne.fit_transform(features)
 tsne_df = pd.DataFrame(tsne_results, columns=['Dimension 1', 'Dimension 2'])
 tsne_df['Label'] = labels
 
+# 顯示原始和降維後的座標
+result_df = pd.DataFrame(features, columns=['Sepal.Length', 'Sepal.Width', 'Petal.Length', 'Petal.Width'])
+result_df['Species'] = labels
+result_df['Dimension 1'] = tsne_df['Dimension 1']
+result_df['Dimension 2'] = tsne_df['Dimension 2']
+
+# 印出結果
+print(result_df)
+
+# 保存結果到 CSV 文件
+result_df.to_csv('iris_with_tsne.csv', index=False)
+
 # 顏色字典
 colors = {'setosa': 'red', 'versicolor': 'green', 'virginica': 'blue'}
 
