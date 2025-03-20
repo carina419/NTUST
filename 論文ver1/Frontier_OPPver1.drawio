@@ -1,0 +1,192 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram name="第 1 页" id="EAA-ffkvVjiq5FqYzdxf">
+    <mxGraphModel dx="2812" dy="1272" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5-HjSUgHELFCou6OvuoI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="bhKgCIIadWL_iD3ARGDd-1" target="5-HjSUgHELFCou6OvuoI-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-HjSUgHELFCou6OvuoI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="NeP40_4VX6ySSnRjrQlt-3" target="5-HjSUgHELFCou6OvuoI-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-325" y="299" />
+              <mxPoint x="89" y="299" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NeP40_4VX6ySSnRjrQlt-3" value="&lt;p style=&quot;language:zh-TW;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: 微軟正黑體;&quot;&gt;OPP&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: 微軟正黑體;&quot;&gt;：Team+滿足廣運企業需求，成功替代免費通訊軟體，成為企業標準通訊軟體&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;fillColor=default;labelBackgroundColor=default;labelBorderColor=none;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-470" y="96.5" width="290" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="5-HjSUgHELFCou6OvuoI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="bhKgCIIadWL_iD3ARGDd-16" target="5-HjSUgHELFCou6OvuoI-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-18.5" y="-63" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-HjSUgHELFCou6OvuoI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="bhKgCIIadWL_iD3ARGDd-19" target="5-HjSUgHELFCou6OvuoI-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="569" y="-63" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-HjSUgHELFCou6OvuoI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="bhKgCIIadWL_iD3ARGDd-20" target="5-HjSUgHELFCou6OvuoI-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="827.9999999999995" y="-63" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-HjSUgHELFCou6OvuoI-10" value="&lt;p style=&quot;language:zh-TW;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;微軟正黑體&quot;&gt;過去沒有機械工程產業的客戶&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;微軟正黑體&quot;&gt;產品功能無法完全滿足廣運的需求(壓縮檔案功能、GPS定位問題)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;微軟正黑體&quot;&gt;與免費通訊軟體的競爭&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=default;labelBackgroundColor=default;strokeColor=default;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="-129" y="74" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5-HjSUgHELFCou6OvuoI-12" value="&lt;p style=&quot;language:zh-TW;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;微軟正黑體&quot;&gt;成為廣運的企業溝通軟體&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;微軟正黑體&quot;&gt;透過廣運成功案例擴展市場，吸引更多企業客戶&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;微軟正黑體&quot;&gt;證明自己能取代免費通訊軟體&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-129" y="343" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5-HjSUgHELFCou6OvuoI-13" value="&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;微軟正黑體&quot;&gt;提升廣運內部溝通效率&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;微軟正黑體&quot;&gt;降低資安風險&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="179" y="343" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5-HjSUgHELFCou6OvuoI-14" value="&lt;p style=&quot;language:zh-TW;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot; face=&quot;微軟正黑體&quot;&gt;成功委外導入Team+，確保廣運資安&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot; face=&quot;微軟正黑體&quot;&gt;提高Team+使用率&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot; face=&quot;微軟正黑體&quot;&gt;控管帳號，進行人員權限控管&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="487" y="343" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5-HjSUgHELFCou6OvuoI-15" value="&lt;p style=&quot;language:zh-TW;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;微軟正黑體&quot;&gt;即時且能支援圖片影片的通訊工具，以提升工作效率&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;微軟正黑體&quot;&gt;簡易上手，不用額外學習新的系統&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="795" y="343" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-2" value="&lt;p style=&quot;language:zh-TW;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;微軟正黑體&quot;&gt;資訊人員能力不足以開發即時溝通軟體&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=default;labelBackgroundColor=default;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="487" y="74" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;endArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bhKgCIIadWL_iD3ARGDd-18" target="bhKgCIIadWL_iD3ARGDd-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309" y="-74" as="sourcePoint" />
+            <mxPoint x="301" y="336" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-1" value="&lt;p style=&quot;language:zh-TW;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;微軟正黑體&quot;&gt;免費即時通訊軟體的資安疑慮&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot; face=&quot;微軟正黑體&quot;&gt;擔心集團通訊軟體的使用率及適應性&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=default;labelBackgroundColor=default;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="179" y="74" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-5" value="&lt;p style=&quot;language:zh-TW;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;微軟正黑體&quot;&gt;有習慣的通訊軟體，不願意學習新系統&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=default;labelBackgroundColor=default;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="74" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bhKgCIIadWL_iD3ARGDd-21" target="bhKgCIIadWL_iD3ARGDd-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1091" y="-89" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-11" value="&lt;p style=&quot;language:zh-TW;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;微軟正黑體&quot;&gt;成功取得廣運訂單&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;微軟正黑體&quot;&gt;透過廣運增加機械工程產業的案例&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1103" y="343" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-12" value="&lt;p style=&quot;language:zh-TW;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font face=&quot;微軟正黑體&quot;&gt;123&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=default;labelBackgroundColor=default;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1103" y="74" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Team+&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-54" y="-174" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;廣運執行長&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="-174" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;資訊部門員工&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2016px%3B%26quot%3B%26gt%3BTeam%2B%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-70.5%22%20y%3D%22-170%22%20width%3D%22140%22%20height%3D%2290%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="562" y="-174" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;集團內部員工&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="-174" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;互動資通&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1178" y="-174" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.6;exitY=1.006;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitPerimeter=0;" edge="1" parent="1" source="NeP40_4VX6ySSnRjrQlt-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-308" y="182" />
+              <mxPoint x="-308" y="281" />
+              <mxPoint x="390" y="281" />
+            </Array>
+            <mxPoint x="-24" y="185" as="sourcePoint" />
+            <mxPoint x="390" y="346" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="NeP40_4VX6ySSnRjrQlt-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-288" y="265" />
+              <mxPoint x="697" y="265" />
+            </Array>
+            <mxPoint x="-284" y="193" as="sourcePoint" />
+            <mxPoint x="697" y="347" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0.764;exitY=0.922;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bhKgCIIadWL_iD3ARGDd-16" target="NeP40_4VX6ySSnRjrQlt-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="53" y="-38" />
+              <mxPoint x="-325" y="-38" />
+            </Array>
+            <mxPoint x="53" y="-79" as="sourcePoint" />
+            <mxPoint x="-246" y="74" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.692;exitY=0.975;exitDx=0;exitDy=0;entryX=0.656;entryY=-0.008;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="NeP40_4VX6ySSnRjrQlt-3" target="5-HjSUgHELFCou6OvuoI-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-269" y="253" />
+              <mxPoint x="985" y="253" />
+            </Array>
+            <mxPoint x="-246" y="179" as="sourcePoint" />
+            <mxPoint x="168" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="NeP40_4VX6ySSnRjrQlt-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-252" y="239" />
+              <mxPoint x="1300" y="239" />
+            </Array>
+            <mxPoint x="886" y="185" as="sourcePoint" />
+            <mxPoint x="1300" y="346" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.577;entryY=0.018;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=1;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="bhKgCIIadWL_iD3ARGDd-18" target="NeP40_4VX6ySSnRjrQlt-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="374" y="-21" />
+              <mxPoint x="-303" y="-21" />
+            </Array>
+            <mxPoint x="343" y="-64" as="sourcePoint" />
+            <mxPoint x="-35" y="124" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.646;entryY=0.018;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=1;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="bhKgCIIadWL_iD3ARGDd-19" target="NeP40_4VX6ySSnRjrQlt-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="682" y="2" />
+              <mxPoint x="-283" y="2" />
+            </Array>
+            <mxPoint x="73" y="-71" as="sourcePoint" />
+            <mxPoint x="-305" y="117" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bhKgCIIadWL_iD3ARGDd-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="22" />
+              <mxPoint x="-264" y="22" />
+            </Array>
+            <mxPoint x="83" y="-61" as="sourcePoint" />
+            <mxPoint x="-264" y="98" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bhKgCIIadWL_iD3ARGDd-21" target="NeP40_4VX6ySSnRjrQlt-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1298" y="43" />
+              <mxPoint x="-252" y="43" />
+            </Array>
+            <mxPoint x="93" y="-51" as="sourcePoint" />
+            <mxPoint x="-285" y="137" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-32" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;行動者&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-371" y="-147" width="78" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKgCIIadWL_iD3ARGDd-33" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;目標&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-361" y="390" width="58" height="36" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
