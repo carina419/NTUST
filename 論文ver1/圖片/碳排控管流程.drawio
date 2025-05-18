@@ -1,0 +1,169 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.1">
+  <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
+    <mxGraphModel dx="1005" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-14" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="200" y="240" width="200" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-10" value="&lt;font face=&quot;標楷體&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;品牌向供應商索取產品與碳排資訊&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;" parent="Ah7HCtGAJgqZncpZ4vAo-14" vertex="1">
+          <mxGeometry y="20" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-2" value="&lt;font face=&quot;標楷體&quot;&gt;一&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#808080;strokeWidth=1;align=center;verticalAlign=middle;swimlaneFillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=none;horizontal=1;fillColor=#e0e0e0;" parent="Ah7HCtGAJgqZncpZ4vAo-14" vertex="1">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-15" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="200" y="310" width="200" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-12" value="&lt;font face=&quot;標楷體&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;供應商進行碳排盤查&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;" parent="Ah7HCtGAJgqZncpZ4vAo-15" vertex="1">
+          <mxGeometry y="20" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-13" value="&lt;font face=&quot;標楷體&quot;&gt;二&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#808080;strokeWidth=1;align=center;verticalAlign=middle;swimlaneFillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=none;horizontal=1;fillColor=#e0e0e0;" parent="Ah7HCtGAJgqZncpZ4vAo-15" vertex="1">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-16" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="200" y="380" width="200" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-17" value="&lt;font face=&quot;標楷體&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;實地蒐集、整理、計算ESG資訊&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;" parent="Ah7HCtGAJgqZncpZ4vAo-16" vertex="1">
+          <mxGeometry y="20" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-18" value="&lt;font face=&quot;標楷體&quot;&gt;三&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#808080;strokeWidth=1;align=center;verticalAlign=middle;swimlaneFillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=none;horizontal=1;fillColor=#e0e0e0;" parent="Ah7HCtGAJgqZncpZ4vAo-16" vertex="1">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-19" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="200" y="472" width="200" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-20" value="&lt;font face=&quot;標楷體&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;完成正式報告&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;" parent="Ah7HCtGAJgqZncpZ4vAo-19" vertex="1">
+          <mxGeometry y="20" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-21" value="&lt;font face=&quot;標楷體&quot;&gt;四&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#808080;strokeWidth=1;align=center;verticalAlign=middle;swimlaneFillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=none;horizontal=1;fillColor=#e0e0e0;" parent="Ah7HCtGAJgqZncpZ4vAo-19" vertex="1">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-22" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="200" y="542" width="200" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-23" value="&lt;span style=&quot;font-family: 標楷體;&quot;&gt;品牌根據報告進行&lt;/span&gt;&lt;br style=&quot;font-family: 標楷體;&quot;&gt;&lt;span style=&quot;font-family: 標楷體;&quot;&gt;產品開發與採購策略規劃&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;" parent="Ah7HCtGAJgqZncpZ4vAo-22" vertex="1">
+          <mxGeometry y="20" width="200" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-24" value="&lt;font face=&quot;標楷體&quot;&gt;五&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#808080;strokeWidth=1;align=center;verticalAlign=middle;swimlaneFillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=none;horizontal=1;fillColor=#e0e0e0;" parent="Ah7HCtGAJgqZncpZ4vAo-22" vertex="1">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-25" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="200" y="616" width="200" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-26" value="&lt;span style=&quot;font-family: 標楷體;&quot;&gt;若結果不符預期&lt;/span&gt;&lt;br style=&quot;font-family: 標楷體;&quot;&gt;&lt;span style=&quot;font-family: 標楷體;&quot;&gt;需重新選布、設計，拖延產品上市&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;" parent="Ah7HCtGAJgqZncpZ4vAo-25" vertex="1">
+          <mxGeometry y="20" width="200" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-27" value="&lt;font face=&quot;標楷體&quot;&gt;六&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#808080;strokeWidth=1;align=center;verticalAlign=middle;swimlaneFillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=none;horizontal=1;fillColor=#e0e0e0;" parent="Ah7HCtGAJgqZncpZ4vAo-25" vertex="1">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-28" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="200" y="686" width="200" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-29" value="&lt;span style=&quot;font-family: 標楷體;&quot;&gt;產品上市&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;" parent="Ah7HCtGAJgqZncpZ4vAo-28" vertex="1">
+          <mxGeometry y="20" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-30" value="&lt;font face=&quot;標楷體&quot;&gt;七&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#808080;strokeWidth=1;align=center;verticalAlign=middle;swimlaneFillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=none;horizontal=1;fillColor=#e0e0e0;" parent="Ah7HCtGAJgqZncpZ4vAo-28" vertex="1">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;endArrow=classic;endFill=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" source="Ah7HCtGAJgqZncpZ4vAo-10" target="Ah7HCtGAJgqZncpZ4vAo-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ah7HCtGAJgqZncpZ4vAo-12" target="Ah7HCtGAJgqZncpZ4vAo-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ah7HCtGAJgqZncpZ4vAo-17" target="Ah7HCtGAJgqZncpZ4vAo-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ah7HCtGAJgqZncpZ4vAo-20" target="Ah7HCtGAJgqZncpZ4vAo-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ah7HCtGAJgqZncpZ4vAo-23" target="Ah7HCtGAJgqZncpZ4vAo-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah7HCtGAJgqZncpZ4vAo-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ah7HCtGAJgqZncpZ4vAo-26" target="Ah7HCtGAJgqZncpZ4vAo-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-1" value="&lt;font face=&quot;標楷體&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;傳統產品碳排控管流程&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;align=center;fontColor=#333333;rounded=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="225" y="200" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 標楷體; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;歷時約需數月至一年&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="235" y="437" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="240" width="200" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-9" value="&lt;font face=&quot;標楷體&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;供應商透過顧問輔導&lt;br&gt;完成碳排盤查&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;" vertex="1" parent="jkfZTWoV5IbuCRkFuwJn-8">
+          <mxGeometry y="20" width="200" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-10" value="&lt;font face=&quot;標楷體&quot;&gt;一&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#808080;strokeWidth=1;align=center;verticalAlign=middle;swimlaneFillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=none;horizontal=1;fillColor=#e0e0e0;" vertex="1" parent="jkfZTWoV5IbuCRkFuwJn-8">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="310" width="200" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-12" value="&lt;font face=&quot;標楷體&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;ESG資訊整合於數位布片中&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;" vertex="1" parent="jkfZTWoV5IbuCRkFuwJn-11">
+          <mxGeometry y="19.583333333333332" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-13" value="&lt;font face=&quot;標楷體&quot;&gt;二&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#808080;strokeWidth=1;align=center;verticalAlign=middle;swimlaneFillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=none;horizontal=1;fillColor=#e0e0e0;" vertex="1" parent="jkfZTWoV5IbuCRkFuwJn-11">
+          <mxGeometry width="200" height="19.583333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="380" width="200" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-15" value="&lt;font face=&quot;標楷體&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;品牌可即時查閱布料碳排資訊&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;" vertex="1" parent="jkfZTWoV5IbuCRkFuwJn-14">
+          <mxGeometry y="20" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-16" value="&lt;font face=&quot;標楷體&quot;&gt;三&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#808080;strokeWidth=1;align=center;verticalAlign=middle;swimlaneFillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=none;horizontal=1;fillColor=#e0e0e0;" vertex="1" parent="jkfZTWoV5IbuCRkFuwJn-14">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="450" width="200" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-18" value="&lt;font face=&quot;標楷體&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;設計初期&lt;br&gt;即可篩選低碳布料、納入永續指標&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;" vertex="1" parent="jkfZTWoV5IbuCRkFuwJn-17">
+          <mxGeometry y="20" width="200" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-19" value="&lt;font face=&quot;標楷體&quot;&gt;四&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#808080;strokeWidth=1;align=center;verticalAlign=middle;swimlaneFillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=none;horizontal=1;fillColor=#e0e0e0;" vertex="1" parent="jkfZTWoV5IbuCRkFuwJn-17">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="520" width="200" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-21" value="&lt;font face=&quot;標楷體&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;提前預估碳成本&lt;br&gt;同步產品設計、內部治理與預算規劃&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;" vertex="1" parent="jkfZTWoV5IbuCRkFuwJn-20">
+          <mxGeometry y="20" width="200" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-22" value="&lt;font face=&quot;標楷體&quot;&gt;五&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#808080;strokeWidth=1;align=center;verticalAlign=middle;swimlaneFillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=none;horizontal=1;fillColor=#e0e0e0;" vertex="1" parent="jkfZTWoV5IbuCRkFuwJn-20">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="590" width="200" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-24" value="&lt;font face=&quot;標楷體&quot;&gt;產品上市&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;" vertex="1" parent="jkfZTWoV5IbuCRkFuwJn-23">
+          <mxGeometry y="20" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-25" value="&lt;font face=&quot;標楷體&quot;&gt;六&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#808080;strokeWidth=1;align=center;verticalAlign=middle;swimlaneFillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=none;horizontal=1;fillColor=#e0e0e0;" vertex="1" parent="jkfZTWoV5IbuCRkFuwJn-23">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;endArrow=classic;endFill=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="jkfZTWoV5IbuCRkFuwJn-9" target="jkfZTWoV5IbuCRkFuwJn-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jkfZTWoV5IbuCRkFuwJn-12" target="jkfZTWoV5IbuCRkFuwJn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jkfZTWoV5IbuCRkFuwJn-15" target="jkfZTWoV5IbuCRkFuwJn-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jkfZTWoV5IbuCRkFuwJn-18" target="jkfZTWoV5IbuCRkFuwJn-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jkfZTWoV5IbuCRkFuwJn-21" target="jkfZTWoV5IbuCRkFuwJn-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jkfZTWoV5IbuCRkFuwJn-35" value="&lt;font face=&quot;標楷體&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;平台即時控管流程&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;align=center;fontColor=#333333;rounded=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="475" y="200" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
