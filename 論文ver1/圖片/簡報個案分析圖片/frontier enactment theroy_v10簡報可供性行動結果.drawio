@@ -8,7 +8,7 @@
           <mxGeometry height="120" width="240" x="330" y="260" as="geometry" />
         </mxCell>
         <mxCell id="iIE0ldJsGx-aEYX-XOFw-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;fillColor=#cce5ff;fontFamily=標楷體;fontSize=18;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;resizable=1;" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#333333&quot;&gt;&lt;b&gt;科技可供性制定&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="155" x="360" y="227" as="geometry" />
+          <mxGeometry height="40" width="155" x="372.5" y="220" as="geometry" />
         </mxCell>
         <mxCell id="iIE0ldJsGx-aEYX-XOFw-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#808080;fillColor=#eeeeee;fontFamily=標楷體;fontSize=18;fontStyle=0;" value="&lt;span style=&quot;color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193)); background-color: transparent;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;行動&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="340" y="300" as="geometry" />
@@ -23,24 +23,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="320" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5rMWcT2sKAdBdNck3-Tc-9" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#808080;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;startArrow=block;startFill=1;" target="5rMWcT2sKAdBdNck3-Tc-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="605" y="320.19" />
-            </Array>
-            <mxPoint x="570" y="320" as="sourcePoint" />
-            <mxPoint x="627.1100500000002" y="320.51302000000027" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5rMWcT2sKAdBdNck3-Tc-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeWidth=1;fontFamily=標楷體;fontSize=18;fontStyle=0;arcSize=19;strokeColor=#808080;" value="" vertex="1">
-          <mxGeometry height="90" width="115" x="625" y="270" as="geometry" />
-        </mxCell>
-        <mxCell id="5rMWcT2sKAdBdNck3-Tc-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=標楷體;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=0;fillColor=#fff2cc;strokeColor=#808080;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;數位創新&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;產業生態系&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="69.45" width="106.39" x="630" y="280" as="geometry" />
-        </mxCell>
-        <mxCell id="5rMWcT2sKAdBdNck3-Tc-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#808080;fillColor=#eeeeee;fontFamily=標楷體;fontSize=18;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;目的&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="70" x="647.5" y="234" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
